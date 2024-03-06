@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^1.6.1",
+    "better-sqlite3": "^9.1.1",
+    "canvacord": "^5.4.10",
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.3.1",
+    "mongodb": "^6.2.0",
+    "mongoose": "^6.0.12",
+    "quick.db": "^9.1.7",
+    "rest": "^2.0.0",
+    "util": "^0.12.5"
+  },
+  "name": "alto",
+  "version": "3.0.0",
+  "description": "Alto discord bot made by Coda Quell",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Coda Quell",
+  "license": "ISC"
+}
